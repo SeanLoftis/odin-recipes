@@ -1,5 +1,15 @@
-h1 {
+#maintitle {
+    margin: 0 auto;
+    display: block;
     color: blue;
-    background-color: rgb(54, 249, 54);
+    border: 5px dashed lightblue;
     text-align: center;
+    padding: 10px;
+    width: 250px;
+}
+
+.link {
+    display: inline-block;
+    margin: 2px;
+    padding: 2px;
 }

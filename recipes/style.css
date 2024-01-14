@@ -2,3 +2,10 @@
     color: blue;
     background-color: aqua;
 }
+
+.foodhead {
+    border: black solid;
+    width: fit-content;
+    padding: 2px;
+
+}
